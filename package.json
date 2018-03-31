@@ -1,0 +1,12 @@
+{
+  "name": "braincuck",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "zenoamaro <zenoamaro@gmail.com>",
+  "homepage": "https://github.com/zenoamaro/braincuck",
+  "bin": "bin/braincuck.js",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "bin/braincuck"
+  }
+}

@@ -1,0 +1,6 @@
+*.log
+/.vscode
+/.history
+/node_modules
+/samples/**/*
+!/samples/**/*.bf
